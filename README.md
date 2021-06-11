@@ -1,4 +1,4 @@
-# How to use cloud-init on Virtual Machine Scale Set
+# How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets
 
 Going forward on my articles covering the usage of cloud-init, in this last article we will use cloud-init in a Virtual Machine Scale Set. With [Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) we can have a group of load balanced VMs and the number of VM instances can automatically increase or decrease in response to demand or a defined schedule. Scale sets provide high availability to applications, allowing to centrally manage, configure and update a large number of VMs.
 
