@@ -110,7 +110,7 @@ Open your browser pointing to the Public IP Adress of your Load Balancer
 
 ✔️ If for some reason, you need to connect over SSH into your VMs for some troubleshooting, here are the steps needed:
 
-### List connection information
+* List connection information
 ```
 az vmss list-instance-connection-info \
   --resource-group myResourceGroup \
@@ -122,7 +122,7 @@ Instance 1          Instance 2
 ------------------  ------------------
 13.68.242.174:50001  13.68.242.174:50002
 ```
-### Create a network security group rule to allow SSH
+* Create a network security group rule to allow SSH
 ```
 az network nsg rule create \
     --resource-group myResourceGroup \po
