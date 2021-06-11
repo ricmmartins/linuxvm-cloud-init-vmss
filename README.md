@@ -1,7 +1,7 @@
 # How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets
 
 > ✔️ This is my 3rd (and final) article covering the usage of cloud-init. You can see the other two here:
-
+>
 > 1. [https://github.com/ricmmartins/linuxvm-cloud-init/](https://github.com/ricmmartins/linuxvm-cloud-init/)
 > 2. [https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 
