@@ -2,8 +2,8 @@
 
 > ✔️ This is my 3rd (and final) article covering the usage of cloud-init. You can see the other two here:
 
-1. [https://github.com/ricmmartins/linuxvm-cloud-init/](https://github.com/ricmmartins/linuxvm-cloud-init/)
-2. [https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
+> 1. [https://github.com/ricmmartins/linuxvm-cloud-init/](https://github.com/ricmmartins/linuxvm-cloud-init/)
+> 2. [https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 
 Going forward on my articles covering the usage of cloud-init, in this last article we will use cloud-init in a Virtual Machine Scale Set. With [Virtual Machine Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) we can have a group of load balanced VMs and the number of VM instances can automatically increase or decrease in response to demand or a defined schedule. Scale sets provide high availability to applications, allowing to centrally manage, configure and update a large number of VMs.
 
