@@ -6,4 +6,4 @@ Adding the usage of cloud-init in a VMSS, we can work with an efficient deployme
 
 ✔️ Use the Bash environment in [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart).
 
-![http://shell.azure.com/](launch-cloud-shell.png)
+[![launch-cloud-shell.png)](launch-cloud-shell.png)](http://shell.azure.com/)
