@@ -113,7 +113,7 @@ Open your browser pointing to the Public IP Adress of your Load Balancer
 
 ![test-access.png](test-access.png)
 
-✔️ If for some reason, you need to connect over SSH into your VMs for some troubleshooting, here are the steps needed:
+✔️ If for some reason you need to connect over SSH into your VMs for some troubleshooting, here are the steps needed:
 
 * List connection information:
 ```
