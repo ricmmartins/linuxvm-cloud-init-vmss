@@ -132,7 +132,7 @@ az network nsg rule create \
     --access allow \
     --priority 300
 ```
-SSH to your first VM instance. Specify your Load Balancer Public IP address and port number with the -p parameter, as shown from the preceding command:
+* SSH to your first VM instance. Specify your Load Balancer Public IP address and port number with the -p parameter, as shown from the preceding command:
 ```
 ssh azureuser@13.68.242.174 -p 50001
 ```
